@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.x",
+    "stripe": "^12.x",
+    "body-parser": "^1.x",
+    "dotenv": "^16.x"
+  }
+}
